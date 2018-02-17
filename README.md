@@ -1,17 +1,16 @@
-Object Orientated Programming Assignment
+# Object Orientated Programming Assignment
 
-A first year programming assignment to create a music player that stores music files as objects.
+A first year programming assignment to create a music player that stores music files as objects, the purpose of the assignment was to demenstrate how well we understood classes and objects to do this we were asked to make a mock-up music player that stores playlists. 
 
-This is our teams finished project.
-@seanmorrissey98 
-@mcnabola
+This is our teams finished project (25/11/17) worth 25% of our Christmas Exam.
+- @seanmorrissey98 
+- @mcnabola
 
-However the purpose of the assignment was to show how well we understood classes and objects to make a mock-up music player we felt as if 
-it would be advantageous to learn how music players worked since it was one of the first things we used in our early computing days playing the preloaded 
-songs on Windows
+However we felt it would be advantageous to further learn how music players worked! Since it was one of the first things we used in our early computing days, playing the preloaded 
+songs on Windows XP before we were connected to the internet. 
 
-We are going to extend the program to include
-- a gui
-- option for entering the file system address of a song, C:\mark\home\music\song.mp3
-- file browser !?! more advanced unless I can port one from open source software.
-- Music Player API 
+We plan on extending the program to include:
+- GUI
+- option for entering the file system address of a song, "C:\mark\home\music\song.mp3"
+- File Browser, would be a more polished finish to the above.
+- Music Player API, to play actual songs.
